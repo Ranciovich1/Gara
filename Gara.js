@@ -12,7 +12,7 @@ async function iniciar () {
         })
 
 //crear un archivo Json para guardar información: ID del cliente, Token y Keys del cliente y del SERVER.
-        fs.existsSync('./Samu330.json') && client.loadAuthInfo('./Samu330.json')
+        fs.existsSync('./Gara.json') && client.loadAuthInfo('./Gara.json')
 
 //Conectando o reconectando
         client.on('connecting', () => {
