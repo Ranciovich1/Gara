@@ -1,10 +1,10 @@
 {
   "name": "Nombre",
-  "version": "0.0.0",
-  "description": "",
-  "main": "nombre del archivo creado anteriormente.js",
+  "version": "1.0",
+  "description": "bot prueba",
+  "main": "gara.js",
   "scripts": {
-  "start": "node nombre del archivo creado anteriormente.js"
+  "start": "node gara.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
